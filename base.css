@@ -180,7 +180,7 @@ ul[data-list-id='guildsnav'] [class^="pill-"] span {
 
 span[class^="expandedFolderBackground-"] {
 	--background-secondary: rgba(var(--md-black), 0.25);
-	border-radius: 14px;
+	border-radius: 10px;
 	width: 40px;
 	left: 16px;
 }
@@ -188,8 +188,9 @@ span[class^="expandedFolderBackground-"] {
 .wrapper-28eC3z,
 [data-list-id='guildsnav'] [data-dnd-name] > div,
 [data-list-id='guildsnav'] svg[width="48"] {
-	width: 80px;
-	height: 80px;
+	width: 55px;
+	height: 55px;
+	border-radius: 10px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
