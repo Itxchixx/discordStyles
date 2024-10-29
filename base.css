@@ -138,6 +138,9 @@ div[class*="typeWindows-"]::after {
 
 
 /* Guilds */
+.guilds_a4d4d9 {
+	border-radius: 10px;
+}
 
 nav[class*="guilds-"] {
     background: transparent;
