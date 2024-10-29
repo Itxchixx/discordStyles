@@ -160,7 +160,7 @@ ul[data-list-id='guildsnav']>div[dir] {
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
-	height: 60px !important;
+	height: 40px !important;
 }
 
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
@@ -169,7 +169,7 @@ ul[id^="folder-items-"] {
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
-	width: 10px;
+	width: 60px;
 	margin-left: -5px;
 	border-radius: 20px;
 }
