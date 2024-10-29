@@ -138,8 +138,30 @@ div[class*="typeWindows-"]::after {
 
 
 /* Guilds */
+.guilds_a4d4d9 foreignObject {mask: none;}
+.guildSeparator-3s64Iy, .guildSeparator-33mFX6 {display: none}
+.folder_bc7085 {background-color: transparent;}
+.folder_bc7085.hover-qTxTR_ {background-color: var(--dplus-bgc-server-button-hover)}
 .guilds_a4d4d9 {
+	background: var(--dplus-bgc-ui-base);
 	border-radius: 10px;
+	margin-right: var(--dplus-spacing-app);
+}
+.pill_a5ad63 {border-radius: 0!important;} /*removes the radius on unread message pill*/
+.guilds_a4d4d9, .listItem_c96c45 {
+	width: calc(var(--dplus-icon-server-sidebar) + var(--dplus-spacing-ui) * 2);
+}
+.wrapper_c5f96a, .wrapper_c5f96a svg {
+	height: var(--dplus-icon-server-sidebar);
+	width: var(--dplus-icon-server-sidebar);
+}
+.listItem_c96c45 {margin: 0 0 var(--dplus-spacing-ui);}
+.expandedFolderBackground_bc7085 {
+	width: var(--dplus-icon-server-sidebar);
+	border-radius: 10px;
+	left: var(--dplus-spacing-ui);
+	bottom: 0;
+	background: var(--dplus-bgc-server-button);
 }
 
 nav[class*="guilds-"] {
