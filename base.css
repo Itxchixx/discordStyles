@@ -169,7 +169,7 @@ ul[id^="folder-items-"] {
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
-	width: 60px;
+	width: 10px;
 	margin-left: -5px;
 	border-radius: 20px;
 }
