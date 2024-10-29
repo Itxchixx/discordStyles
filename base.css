@@ -171,7 +171,7 @@ ul[id^="folder-items-"] {
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
 	width: 10px;
 	margin-left: -5px;
-	border-radius: 10px;
+	border-radius: 20px;
 }
 
 [data-list-id='guildsnav'] [class^="pill-"] span[style^="opacity: 1; height: 40"] {
@@ -180,7 +180,7 @@ ul[data-list-id='guildsnav'] [class^="pill-"] span {
 
 span[class^="expandedFolderBackground-"] {
 	--background-secondary: rgba(var(--md-black), 0.25);
-	border-radius: 10px;
+	border-radius: 14px;
 	width: 40px;
 	left: 16px;
 }
@@ -190,7 +190,6 @@ span[class^="expandedFolderBackground-"] {
 [data-list-id='guildsnav'] svg[width="48"] {
 	width: 40px;
 	height: 40px;
-	border-radius: 10px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
@@ -220,7 +219,6 @@ div[data-list-item-id="guildsnav___create-join-button"]:hover,
 div[data-list-item-id="guildsnav___guild-discover-button"]:hover {
 	opacity: 1;
 }
-
 
 /* Sidebar */
 
