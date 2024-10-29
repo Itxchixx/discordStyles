@@ -190,6 +190,7 @@ span[class^="expandedFolderBackground-"] {
 [data-list-id='guildsnav'] svg[width="48"] {
 	width: 40px;
 	height: 40px;
+	border-radius: 10px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
