@@ -160,7 +160,7 @@ ul[data-list-id='guildsnav']>div[dir] {
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
-	height: 40px !important;
+	height: 60px !important;
 }
 
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
@@ -188,7 +188,7 @@ span[class^="expandedFolderBackground-"] {
 .wrapper-28eC3z,
 [data-list-id='guildsnav'] [data-dnd-name] > div,
 [data-list-id='guildsnav'] svg[width="48"] {
-	width: 60px;
+	width: 40px;
 	height: 40px;
 	border-radius: 10px;
 }
