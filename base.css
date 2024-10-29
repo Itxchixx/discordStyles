@@ -32,6 +32,7 @@ button {
 	--accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
 	--vaccentcolor-active: rgb(var(--accent));
+	--server-border-radius: 10px;
 }
 
 :not(div[class*="userProfile"][class*="unThemed"]).theme-dark,
