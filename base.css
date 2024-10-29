@@ -21,7 +21,6 @@ button {
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
-	--home-image: url('https://i.imgur.com/233d55Y.gif');
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
 	--background-solid-darker: #0c0e12;
@@ -170,9 +169,9 @@ ul[id^="folder-items-"] {
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
-	width: 10px;
+	width: 30px;
 	margin-left: -5px;
-	border-radius: 20px;
+	border-radius: 10px;
 }
 
 [data-list-id='guildsnav'] [class^="pill-"] span[style^="opacity: 1; height: 40"] {
